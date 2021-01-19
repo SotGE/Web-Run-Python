@@ -36,7 +36,7 @@
 
 [logo-img]: <./.gitimg/LOGO.png> (LOGO)
 
-### **<p align="center">[README Russian »][readme-ru-url]</p>**
+### **<p align="center">[README English »][home-url]</p>**
 
 ****
 
@@ -52,35 +52,35 @@
 
 <br/>
 
-## Description
+## Описание
 
 Web Run Python
 
 <br/>
 
-## Documentation
+## Документация
 
 For Web
 
 <br/>
 
-## System requirements
+## Системные требования
 
 Windows
 
 <br/>
 
-## Release notes
+## Примечания к выпуску
 
-Can be found in [release notes][release-notes-url]
+Можно найти в [примечаниях к выпуску][release-notes-url]
 
 <br/>
 
-## Contacts
+## Контакты
 
-Site: <https://sotge.ru/>
+Сайт: <https://sotge.ru/>
 
-E-Mail: <sotge@hotmail.com>
+Электронная почта: <sotge@hotmail.com>
 
 Facebook: [@SotGEGDS](https://www.facebook.com/sotgegds "https://www.facebook.com/sotgegds")
 
@@ -92,24 +92,24 @@ Telegram: [@SotGE](https://t.me/sotge "https://t.me/sotge")
 
 <br/>
 
-## Contributing
+## Содействие
 
-Read below to learn how you can take part in improving project
+Читайте ниже, чтобы узнать, как вы можете принять участие в улучшении проекта
 
-For more information, see [code of conduct][code-of-conduct-url]
+Дополнительные сведения смотрите в разделе [кодекс поведения][code-of-conduct-url]
 
 
-Please, follow [contributing][contributing-url] page
+Пожалуйста, перейдите на страницу [поддержки][contributing-url].
 
-Thank you, [contributors][contributors-url]!
+Спасибо вам, [соавторы][contributors-url]!
 
 <br/>
 
-## License
+## Лицензия
 
-Project code is available under the Apache License 2.0
+Код проекта доступен под лицензией Apache License 2.0
 
-For more information, see [license agreement][license-url]
+Дополнительные сведения смотрите в разделе [лицензионное соглашение][license-url]
 
 <br/>
 
